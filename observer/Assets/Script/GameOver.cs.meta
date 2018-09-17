@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fff9701aaf69c0249bf3de27d28563d1
+timeCreated: 1471503647
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - image: {instanceID: 0}
+  - sunaarasi: {fileID: 21300000, guid: 2ce54112463315241a937b3dbdbde2ce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
